@@ -1,0 +1,5 @@
+//HOME PAGE TYPES
+export const DISABLE_INPUT_BTN = 'DISABLE_INPUT_BTN'
+export const ERROR_MESSAGE = 'ERROR_MESSAGE'
+export const JOIN_US = 'JOIN_US'
+export const GET_USER_HEADER = 'GET_USER_HEADER'

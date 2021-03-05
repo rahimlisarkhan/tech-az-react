@@ -1,0 +1,72 @@
+* {
+    transition: all .3s;
+    text-transform: lowercase;
+}
+
+
+
+html {
+    font-size: 62.5%; //1rem = 10px
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image:url("../../img/icons\ _\ graphics/Asset 1.png")
+    ,url("../../img/icons\ _\ graphics/Asset 2.png"),linear-gradient($color-black 65%,$color-black 20% ) ;
+    background-repeat: repeat-y, repeat-y;
+    background-position: left,right;
+    font-family: $fontRoboto;
+    
+}
+
+.active-nav{
+    color: rgb(255, 255, 255) !important;
+}
+
+.active-user{
+    color: rgb(243, 132, 6);
+}
+.bg-white{
+    @include respond(phone){
+        width: 95% !important;
+        height: 100rem !important;
+        padding: 0  !important;
+        flex-direction: column-reverse !important;
+    }
+    padding: 4rem 0  !important;
+    flex-wrap: wrap !important;
+  
+    background-color: white !important;
+}
+.bg-green{
+    width: 25% !important;
+    height: auto !important;
+    background-color: $color-blue !important;
+
+    @include respond(phone){
+        width: 85% !important;
+    }
+}
+
+.d-flex-col{
+    @include respond(phone){
+        flex-direction: column-reverse !important;
+    }
+  
+}
+//Scroll bar
+::-webkit-scrollbar {
+    width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+    background: $color-black;
+}
+
+::-webkit-scrollbar-thumb {
+    background:$color-blue;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(255, 255, 255);
+}
