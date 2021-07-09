@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7509a0a5.chunk.css",
-    "main.js": "/static/js/main.73dfd231.chunk.js",
-    "main.js.map": "/static/js/main.73dfd231.chunk.js.map",
+    "main.css": "/static/css/main.2e54d5db.chunk.css",
+    "main.js": "/static/js/main.cc5454a8.chunk.js",
+    "main.js.map": "/static/js/main.cc5454a8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5cd23bcf.js",
     "runtime-main.js.map": "/static/js/runtime-main.5cd23bcf.js.map",
     "static/css/2.2db37b55.chunk.css": "/static/css/2.2db37b55.chunk.css",
-    "static/js/2.c7ab6023.chunk.js": "/static/js/2.c7ab6023.chunk.js",
-    "static/js/2.c7ab6023.chunk.js.map": "/static/js/2.c7ab6023.chunk.js.map",
+    "static/js/2.83c9859f.chunk.js": "/static/js/2.83c9859f.chunk.js",
+    "static/js/2.83c9859f.chunk.js.map": "/static/js/2.83c9859f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2db37b55.chunk.css.map": "/static/css/2.2db37b55.chunk.css.map",
-    "static/css/main.7509a0a5.chunk.css.map": "/static/css/main.7509a0a5.chunk.css.map",
-    "static/js/2.c7ab6023.chunk.js.LICENSE.txt": "/static/js/2.c7ab6023.chunk.js.LICENSE.txt",
+    "static/css/main.2e54d5db.chunk.css.map": "/static/css/main.2e54d5db.chunk.css.map",
+    "static/js/2.83c9859f.chunk.js.LICENSE.txt": "/static/js/2.83c9859f.chunk.js.LICENSE.txt",
     "static/media/Artboard 1.10e5aba9.png": "/static/media/Artboard 1.10e5aba9.png",
     "static/media/Artboard 2.43de9896.png": "/static/media/Artboard 2.43de9896.png",
     "static/media/App.scss": "/static/media/Asset 1.1857cb75.png",
@@ -27,7 +27,6 @@
     "static/media/innoland.3219ffab.png": "/static/media/innoland.3219ffab.png",
     "static/media/itu magnet.7b0fc5e9.webp": "/static/media/itu magnet.7b0fc5e9.webp",
     "static/media/nextsteplogo.9c238b2b.png": "/static/media/nextsteplogo.9c238b2b.png",
-    "static/media/neüs-image.5e3fab91.jpg": "/static/media/neüs-image.5e3fab91.jpg",
     "static/media/silicon valley.48730f78.png": "/static/media/silicon valley.48730f78.png",
     "static/media/slack logo1.6e106f8f.png": "/static/media/slack logo1.6e106f8f.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
@@ -41,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.5cd23bcf.js",
     "static/css/2.2db37b55.chunk.css",
-    "static/js/2.c7ab6023.chunk.js",
-    "static/css/main.7509a0a5.chunk.css",
-    "static/js/main.73dfd231.chunk.js"
+    "static/js/2.83c9859f.chunk.js",
+    "static/css/main.2e54d5db.chunk.css",
+    "static/js/main.cc5454a8.chunk.js"
   ]
 }
